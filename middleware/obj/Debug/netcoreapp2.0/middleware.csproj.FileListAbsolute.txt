@@ -1,0 +1,10 @@
+C:\Users\hawk5\documents\AspNetCore\middleware\bin\Debug\netcoreapp2.0\middleware.deps.json
+C:\Users\hawk5\documents\AspNetCore\middleware\bin\Debug\netcoreapp2.0\middleware.runtimeconfig.json
+C:\Users\hawk5\documents\AspNetCore\middleware\bin\Debug\netcoreapp2.0\middleware.runtimeconfig.dev.json
+C:\Users\hawk5\documents\AspNetCore\middleware\bin\Debug\netcoreapp2.0\middleware.dll
+C:\Users\hawk5\documents\AspNetCore\middleware\bin\Debug\netcoreapp2.0\middleware.pdb
+C:\Users\hawk5\documents\AspNetCore\middleware\obj\Debug\netcoreapp2.0\middleware.csproj.CoreCompileInputs.cache
+C:\Users\hawk5\documents\AspNetCore\middleware\obj\Debug\netcoreapp2.0\middleware.AssemblyInfoInputs.cache
+C:\Users\hawk5\documents\AspNetCore\middleware\obj\Debug\netcoreapp2.0\middleware.AssemblyInfo.cs
+C:\Users\hawk5\documents\AspNetCore\middleware\obj\Debug\netcoreapp2.0\middleware.dll
+C:\Users\hawk5\documents\AspNetCore\middleware\obj\Debug\netcoreapp2.0\middleware.pdb
